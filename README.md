@@ -8,15 +8,14 @@ Como Instrutora de TI e acadêmica da UNIVESP, acredito que a melhoria contínua
 
 | Tecnologia / Área | Curso / Certificação | Instituição | Carga Horária | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 📊 **Business Intelligence** | Data Analysis with Power BI & Excel | Experium | — | Concluído |
-| 📊 **Business Intelligence** | Power BI | Santander Open Academy | 8h[ | Concluído |
+| 📊 **Business Intelligence** | Data Analysis with Power BI & Excel | Experium |  8h— | Concluído |
+| 📊 **Business Intelligence** | Power BI | Santander Open Academy | 8h | Concluído |
 | 🛢️ **Banco de Dados** | Santander Dev Week - Pipeli | Fundação Bradesco | 15h | Concluído |
 | 🛢️ **Banco de Dados** | Banco de Dados 1 - Fundamentos | IFRS | 20h | Concluído |
-| 🐍 **Ciência de Dados** | Análise de Dados com Python e Pandas | Fundação bradesco | — | Concluído |
+| 🐍 **Ciência de Dados** | Análise de Dados com Python e Pandas | Fundação bradesco | | 10h— | Concluído |
 | 🐍 **Ciência de Dados** | Introdução à Ciência de Dados[ | Santander / IE University | 6h | Concluído |
 | 🚀 **Big Data & Analytics** | Big Data & Analytics | FIAP (Nano Courses) | 60h | Concluído |
-| 💻 **Programação** | Linguagem de Programação Python - Básico | Fundação Bradesco | 18h | Concluído |
-| ☁️ **Cloud Computing** | Fundamentos de AWS (Redução de Custos) | santander open academy | — | Concluído |
+| 💻 **Programação** | Linguagem de Programação Python - Básico | Fundação Bradesco | 18h |  12h — | Concluído |
 | 🎓 **Graduação** | Bacharelado em Ciência de Dados | UNIVESP | Superior | Em andamento |
 | 🎓 **Graduação** | Bacharelado em Tecnologia da Informação | UNIVESP | Superior | Concluído |
 
