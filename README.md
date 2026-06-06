@@ -3,19 +3,25 @@
 Este repositório funciona como uma central de auditoria e transparência para a minha jornada de desenvolvimento profissional. Aqui estão reunidos e categorizados todos os certificados, cursos de extensão e conquistas acadêmicas que respaldam a minha atuação técnica em Business Intelligence, Engenharia de Dados e Infraestrutura.
 
 ---
+## 📊 Tabela Consolidada de Certificações (Auditoria 2026)
 
-## 📊 Tabela de Certificações (Auditada)
-
-| Área de Mercado | Nome do Curso / Certificação | Instituição Emissora | Status / Conclusão |
+| Área | Nome do Curso / Certificação | Instituição | Status |
 | :--- | :--- | :--- | :--- |
-| **Data Analytics & BI** | Microsoft Power BI Avançado (DAX, M & Modelagem) | Digital Innovation One (DIO) | Concluído ✅ |
-| **Data Analytics & BI** | Excel Avançado e Automação de Processos | Fundação Bradesco / EV | Concluído ✅ |
-| **Data Science / Eng.** | Formação Python para Análise de Dados (Pandas & NumPy) | Digital Innovation One (DIO) | Concluído ✅ |
-| **Data Science / Eng.** | Santander Dev Week - Pipeline ETL com Python | Digital Innovation One (DIO) | Concluído ✅ |
-| **Bancos de Dados** | Modelagem de Dados e Linguagem SQL (MySQL) | UNIVESP / Extensão | Concluído ✅ |
-| **Cloud Computing** | AWS Cloud Essentials (FinOps, S3, EC2 & Budgets) | AWS Training / Escola Virtual | Concluído ✅ |
-| **Acadêmica (Graduação)**| Bacharelado em Tecnologia da Informação (TI) | UNIVESP | Concluído (08/2025) 🎓 |
-| **Acadêmica (Graduação)**| Bacharelado em Ciência de Dados | UNIVESP | Em andamento (08/2026) ⏳ |
+| **Data & BI** | Big Data e Análise | FIAP | Concluído ✅ |
+| **Data & BI** | Business Intelligence (BI) | FIAP | Concluído ✅ |
+| **Data & BI** | Microsoft Power BI | Santander Open Academy | Concluído ✅ |
+| **Data & BI** | Introdução à Ciência de Dados | Santander Open Academy | Concluído ✅ |
+| **Data & BI** | Microsoft Power BI Avançado | DIO | Concluído ✅ |
+| **Cloud & Arq.** | Cloud Fundamentals, Admin & Solution Architect | FIAP | Concluído ✅ |
+| **Cloud & Arq.** | AWS Cloud Essentials | AWS Training | Concluído ✅ |
+| **DevOps & Infra**| DevOps e Cultura Ágil | FIAP | Concluído ✅ |
+| **DevOps & Infra**| Linux Fundamentos | FIAP | Concluído ✅ |
+| **Programação** | Java Fundamentos | FIAP | Concluído ✅ |
+| **Programação** | Python (POO e Linguagem) | Fundação Bradesco | Concluído ✅ |
+| **Tecnologia** | Blockchain Advanced | FIAP | Concluído ✅ |
+| **Tecnologia** | Inteligência Artificial e Computacional | FIAP | Concluído ✅ |
+| **Tecnologia** | Cybersecurity | FIAP | Concluído ✅ |
+| **Acadêmica** | Bacharelado em TI | UNIVESP | Concluído 🎓 |
 
 ---
 
