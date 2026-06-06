@@ -1,1 +1,23 @@
-🎓 Meus Certificados e Formação ProfissionalEste repositório centraliza as certificações, cursos de extensão e conquistas acadêmicas que validam a minha jornada técnica nas áreas de Business Intelligence, Ciência de Dados, Banco de Dados e Tecnologia da Informação.🗺️ Visão Geral do Portfólio de AprendizadoComo Instrutora de TI e acadêmica da UNIVESP, acredito que a melhoria contínua é a base de uma atuação sólida em dados. Abaixo estão listadas as principais formações complementares concluídas, organizadas por competência de mercado.Tecnologia / ÁreaCurso / CertificaçãoInstituiçãoCarga HoráriaStatus📊 Business IntelligenceData Analysis with Power BI & ExcelCurso de Origem—Concluído📊 Business IntelligencePower BI  Santander Open Academy  8h  Concluído🛢️ Banco de DadosSantander Dev Week - Pipeline ETLSantander / DIO—Concluído🛢️ Banco de DadosAdministrando Banco de Dados  Fundação Bradesco  15h  Concluído🛢️ Banco de DadosBanco de Dados 1 - Fundamentos  IFRS  20h  Concluído🐍 Ciência de DadosAnálise de Dados com Python e PandasCurso de Origem—Concluído🐍 Ciência de DadosIntrodução à Ciência de Dados  Santander / IE University  6h  Concluído🚀 Big Data & AnalyticsBig Data & AnalyticsFIAP (Nano Courses)60hConcluído💻 ProgramaçãoLinguagem de Programação Python - Básico  Fundação Bradesco  18h  Concluído☁️ Cloud ComputingFundamentos de AWS (Redução de Custos)Curso de Origem—Concluído🎓 GraduaçãoBacharelado em Ciência de DadosUNIVESPSuperiorEm andamento🎓 GraduaçãoBacharelado em Tecnologia da InformaçãoUNIVESPSuperiorEm andamento📂 Organização do RepositórioPara facilitar a auditoria e visualização, os arquivos originais estão organizados nas seguintes estruturas de pastas:/PowerBI: Certificados voltados para modelagem DAX, Power Query, Dashboards e relatórios corporativos.  /SQL: Validações de manipulação de bancos de dados relacionais, administração e construção de pipelines de dados.  /Python: Cursos com foco em lógica de programação, análise exploratória, tratamento de dados (Pandas/NumPy) e bibliotecas de visualização.  /BigData_Analytics: Certificações voltadas para arquitetura de dados em larga escala, conceitos de Big Data e análise preditiva.  /Academico: Comprovações ligadas à graduação na UNIVESP e histórico de docência.
+# 🎓 Meus Certificados e Formação Profissional
+
+Este repositório centraliza as certificações, cursos de extensão e conquistas acadêmicas que validam a minha jornada técnica nas áreas de Business Intelligence, Ciência de Dados, Banco de Dados e Tecnologia da Informação.
+
+## 🗺️ Visão Geral do Portfólio de Aprendizado
+
+Como Instrutora de TI e acadêmica da UNIVESP, acredito que a melhoria contínua é a base de uma atuação sólida em dados. Abaixo estão listadas as principais formações complementares concluídas, organizadas por competência de mercado.
+
+| Tecnologia / Área | Curso / Certificação | Instituição | Carga Horária | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 📊 **Business Intelligence** | Data Analysis with Power BI & Excel | Curso de Origem | — | Concluído |
+| 📊 **Business Intelligence** | Power BI[cite: 2] | Santander Open Academy[cite: 2] | 8h[cite: 2] | Concluído |
+| 🛢️ **Banco de Dados** | Santander Dev Week - Pipeline ETL | Santander / DIO | — | Concluído |
+| 🛢️ **Banco de Dados** | Administrando Banco de Dados[cite: 3] | Fundação Bradesco[cite: 3] | 15h[cite: 3] | Concluído |
+| 🛢️ **Banco de Dados** | Banco de Dados 1 - Fundamentos[cite: 3] | IFRS[cite: 3] | 20h[cite: 3] | Concluído |
+| 🐍 **Ciência de Dados** | Análise de Dados com Python e Pandas | Curso de Origem | — | Concluído |
+| 🐍 **Ciência de Dados** | Introdução à Ciência de Dados[cite: 1] | Santander / IE University[cite: 1] | 6h[cite: 1] | Concluído |
+| 🚀 **Big Data & Analytics** | Big Data & Analytics | FIAP (Nano Courses) | 60h | Concluído |
+| 💻 **Programação** | Linguagem de Programação Python - Básico[cite: 3] | Fundação Bradesco[cite: 3] | 18h[cite: 3] | Concluído |
+| ☁️ **Cloud Computing** | Fundamentos de AWS (Redução de Custos) | Curso de Origem | — | Concluído |
+| 🎓 **Graduação** | Bacharelado em Ciência de Dados | UNIVESP | Superior | Em andamento |
+| 🎓 **Graduação** | Bacharelado em Tecnologia da Informação | UNIVESP | Superior | Em andamento |
+
