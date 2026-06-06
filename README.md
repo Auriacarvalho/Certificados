@@ -18,5 +18,5 @@ Como Instrutora de TI e acadêmica da UNIVESP, acredito que a melhoria contínua
 | 💻 **Programação** | Linguagem de Programação Python - Básico | Fundação Bradesco | 18h | Concluído |
 | ☁️ **Cloud Computing** | Fundamentos de AWS (Redução de Custos) | Curso de Origem | — | Concluído |
 | 🎓 **Graduação** | Bacharelado em Ciência de Dados | UNIVESP | Superior | Em andamento |
-| 🎓 **Graduação** | Bacharelado em Tecnologia da Informação | UNIVESP | Superior | Em andamento |
+| 🎓 **Graduação** | Bacharelado em Tecnologia da Informação | UNIVESP | Superior | Concluído |
 
